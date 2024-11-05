@@ -1,0 +1,2 @@
+require("archivemount"):setup()
+

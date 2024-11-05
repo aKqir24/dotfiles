@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-hue-chroma-config "2024-09-16 18:50:49"
+    (time 1726512649)
+    (hue -3.1400000000000001)
+    (chroma 0)
+    (lightness 2.9100000000000001))
+(GimpGegl-gegl-hue-chroma-config "2020-06-16 17:24:39"
+    (time 1592328279)
+    (hue 0)
+    (chroma 20)
+    (lightness 0))
+
+# end of settings

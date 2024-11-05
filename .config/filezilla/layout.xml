@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.67.1" platform="*nix">
+	<Layout Builddate="2024-09-13" Buildtime="21:20:04">
+		<Resources />
+		<Language id="default">
+			<Font font="Nunito 12" width="938" height="23" />
+		</Language>
+		<Language id="en_US" date="">
+			<Font font="Nunito 12" width="938" height="23" />
+		</Language>
+	</Layout>
+</FileZilla3>

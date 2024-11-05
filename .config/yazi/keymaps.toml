@@ -1,0 +1,10 @@
+[[manager.prepend_keymap]]
+  on = [ "m", "a" ]
+  run = "plugin archivemount --args=mount"
+  desc = "Mount selected archive"
+
+[[manager.prepend_keymap]]
+  on = [ "m", "u" ]
+  run = "plugin archivemount --args=unmount"
+  desc = "Unmount and save changes to original archive"
+

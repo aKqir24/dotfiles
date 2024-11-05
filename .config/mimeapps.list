@@ -1,0 +1,35 @@
+[Added Associations]
+text/plain=nvim.desktop;
+text/x-chdr=nvim.desktop;
+text/x-csrc=nvim.desktop;
+text/x-makefile=nvim.desktop;
+
+image/jpeg=org.xfce.ristretto.desktop;
+image/webp=org.xfce.ristretto.desktop;
+image/x-rgb=org.xfce.ristretto.desktop;
+
+application/xml=nvim.desktop;
+application/json=nvim.desktop;
+application/x-core=nvim.desktop;
+application/x-zerosize=nvim.desktop;
+application/x-msdownload=wine.desktop;
+application/x-tint2-theme=foot.desktop;
+application/x-shellscript=nvim.desktop;
+application/vnd.microsoft.portable-executable=userapp-wine-8WAFU2.desktop;
+
+[Default Applications]
+image/png=org.xfce.ristretto.desktop
+image/jpg=org.xfce.ristretto.desktop
+image/jpeg=org.xfce.ristretto.desktop
+image/x-rgb=org.xfce.ristretto.desktop
+
+application/xml=nvim.desktop
+application/x-conf=nvim.desktop
+application/x-zerosize=nvim.desktop
+application/x-shellscript=nvim.desktop
+application/x-core=userapp-kitty nvim-1CBAU2.desktop
+application/vnd.microsoft.portable-executable=userapp-wine-8WAFU2.desktop
+
+text/plain=nvim.desktop
+
+
